@@ -1,0 +1,9 @@
+{
+  "difficulty": "normal_plus",
+  "restart_hour": 9,
+  "restart_minute": 55,
+  "max_session_seconds": 1500,
+  "spin_interval_seconds": 0.25,
+  "unknown_timeout_seconds": 12,
+  "jackpot_balance": 10000
+}

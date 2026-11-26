@@ -1,0 +1,513 @@
+{
+  "menu": {
+    "roi": [
+      0,
+      180,
+      520,
+      600
+    ],
+    "threshold": 0.87
+  },
+  "difficulty": {
+    "roi": [
+      300,
+      0,
+      1350,
+      130
+    ],
+    "threshold": 0.85
+  },
+  "story": {
+    "roi": [
+      500,
+      200,
+      1450,
+      550
+    ],
+    "threshold": 0.8
+  },
+  "skip": {
+    "roi": [
+      0,
+      850,
+      700,
+      927
+    ],
+    "threshold": 0.78
+  },
+  "spawn": {
+    "roi": [
+      950,
+      0,
+      1650,
+      180
+    ],
+    "threshold": 0.77
+  },
+  "desktop": {
+    "roi": [
+      0,
+      0,
+      200,
+      160
+    ],
+    "threshold": 0.83
+  },
+  "merr_icon": {
+    "roi": [
+      0,
+      0,
+      650,
+      155
+    ],
+    "threshold": 0.82
+  },
+  "bit_icon": {
+    "roi": [
+      0,
+      90,
+      200,
+      260
+    ],
+    "threshold": 0.82
+  },
+  "merr_title": {
+    "roi": [
+      250,
+      0,
+      1500,
+      250
+    ],
+    "threshold": 0.84
+  },
+  "bit_title": {
+    "roi": [
+      0,
+      0,
+      900,
+      300
+    ],
+    "threshold": 0.84
+  },
+  "spin": {
+    "roi": [
+      300,
+      520,
+      1450,
+      900
+    ],
+    "threshold": 0.86
+  },
+  "disabled": {
+    "roi": [
+      300,
+      520,
+      1450,
+      900
+    ],
+    "threshold": 0.86
+  },
+  "exchange": {
+    "roi": [
+      0,
+      260,
+      850,
+      750
+    ],
+    "threshold": 0.85
+  },
+  "processing": {
+    "roi": [
+      0,
+      100,
+      800,
+      500
+    ],
+    "threshold": 0.83
+  },
+  "loss": {
+    "roi": [
+      250,
+      200,
+      1450,
+      750
+    ],
+    "threshold": 0.82
+  },
+  "tumble": {
+    "roi": [
+      300,
+      550,
+      1450,
+      880
+    ],
+    "threshold": 0.82
+  },
+  "better": {
+    "roi": [
+      300,
+      550,
+      1450,
+      900
+    ],
+    "threshold": 0.83
+  },
+  "offline": {
+    "roi": [
+      250,
+      150,
+      1450,
+      800
+    ],
+    "threshold": 0.85
+  },
+  "power": {
+    "roi": [
+      600,
+      0,
+      1100,
+      260
+    ],
+    "threshold": 0.88
+  },
+  "hack_skull": {
+    "roi": [
+      500,
+      100,
+      1150,
+      650
+    ],
+    "threshold": 0.72
+  },
+  "death": {
+    "roi": [
+      900,
+      130,
+      1500,
+      580
+    ],
+    "threshold": 0.87
+  },
+  "pause": {
+    "roi": [
+      0,
+      0,
+      350,
+      130
+    ],
+    "threshold": 0.88
+  },
+  "to_menu": {
+    "roi": [
+      0,
+      100,
+      430,
+      360
+    ],
+    "threshold": 0.86
+  },
+  "pm": {
+    "roi": [
+      1609,
+      895,
+      1650,
+      922
+    ],
+    "threshold": 0.88
+  },
+  "digits": {
+    "1": [
+      "digit_1_0.png",
+      "digit_1_1.png",
+      "digit_1_2.png",
+      "digit_1_3.png",
+      "digit_1_4.png",
+      "digit_1_5.png",
+      "digit_1_6.png",
+      "digit_1_7.png",
+      "digit_1_8.png",
+      "digit_1_9.png",
+      "bar_digit_155105_71_85_1.png",
+      "bar_digit_170252_100_00_0.png",
+      "bar_digit_170252_48_15_3.png"
+    ],
+    "0": [
+      "digit_0_0.png",
+      "digit_0_1.png",
+      "digit_0_2.png",
+      "digit_0_3.png",
+      "digit_0_4.png",
+      "digit_0_5.png",
+      "digit_0_6.png",
+      "digit_0_7.png",
+      "digit_0_8.png",
+      "digit_0_9.png",
+      "digit_0_10.png",
+      "digit_0_11.png",
+      "digit_0_12.png",
+      "digit_0_13.png",
+      "digit_0_14.png",
+      "digit_0_15.png",
+      "digit_0_16.png",
+      "digit_0_17.png",
+      "digit_0_18.png",
+      "digit_0_19.png",
+      "digit_0_20.png",
+      "digit_0_21.png",
+      "digit_0_22.png",
+      "digit_0_23.png",
+      "digit_0_24.png",
+      "digit_0_25.png",
+      "digit_0_26.png",
+      "digit_0_27.png",
+      "digit_0_28.png",
+      "digit_0_29.png",
+      "digit_0_30.png",
+      "digit_0_31.png",
+      "digit_0_32.png",
+      "digit_0_33.png",
+      "digit_0_34.png",
+      "digit_0_35.png",
+      "digit_0_36.png",
+      "digit_0_37.png",
+      "digit_0_38.png",
+      "digit_0_39.png",
+      "digit_0_40.png",
+      "digit_0_41.png",
+      "digit_0_42.png",
+      "digit_0_43.png",
+      "digit_0_44.png",
+      "digit_0_45.png",
+      "digit_0_46.png",
+      "digit_0_47.png",
+      "digit_0_48.png",
+      "digit_0_49.png",
+      "digit_0_50.png",
+      "digit_0_51.png",
+      "digit_0_52.png",
+      "bar_digit_155050_80_00_1.png",
+      "bar_digit_155050_80_00_3.png",
+      "bar_digit_155050_80_00_4.png",
+      "bar_digit_155105_80_00_1.png",
+      "bar_digit_155105_80_00_3.png",
+      "bar_digit_155105_80_00_4.png",
+      "bar_digit_170252_100_00_1.png",
+      "bar_digit_170252_100_00_2.png",
+      "bar_digit_170252_100_00_4.png",
+      "bar_digit_170252_100_00_5.png"
+    ],
+    "5": [
+      "digit_5_0.png",
+      "digit_5_1.png",
+      "digit_5_2.png",
+      "digit_5_3.png",
+      "digit_5_4.png",
+      "bar_digit_155050_69_54_3.png",
+      "bar_digit_155105_71_85_4.png",
+      "bar_digit_170252_48_15_4.png"
+    ],
+    "2": [
+      "digit_2_0.png",
+      "digit_2_1.png",
+      "digit_2_2.png",
+      "digit_2_3.png",
+      "digit_2_4.png",
+      "digit_2_5.png",
+      "digit_2_6.png",
+      "digit_2_7.png"
+    ],
+    "6": [
+      "digit_6_0.png",
+      "digit_6_1.png",
+      "digit_6_2.png",
+      "bar_digit_155050_69_54_0.png"
+    ],
+    "9": [
+      "digit_9_0.png",
+      "digit_9_1.png",
+      "digit_9_2.png",
+      "digit_9_3.png",
+      "digit_9_4.png",
+      "digit_9_5.png",
+      "digit_9_6.png",
+      "digit_9_7.png",
+      "digit_9_8.png",
+      "digit_9_9.png",
+      "digit_9_10.png",
+      "digit_9_11.png",
+      "bar_digit_155050_69_54_1.png"
+    ],
+    "7": [
+      "digit_7_0.png",
+      "digit_7_1.png",
+      "digit_7_2.png",
+      "bar_digit_155105_71_85_0.png"
+    ],
+    "8": [
+      "digit_8_0.png",
+      "digit_8_1.png",
+      "digit_8_2.png",
+      "digit_8_3.png",
+      "bar_digit_155050_80_00_0.png",
+      "bar_digit_155105_80_00_0.png",
+      "bar_digit_155105_71_85_3.png",
+      "bar_digit_170252_48_15_1.png"
+    ],
+    "4": [
+      "digit_4_0.png",
+      "digit_4_1.png",
+      "bar_digit_155050_69_54_4.png",
+      "bar_digit_170252_48_15_0.png"
+    ],
+    "3": [
+      "digit_3_0.png",
+      "digit_3_1.png",
+      "digit_3_2.png",
+      "digit_3_3.png"
+    ]
+  },
+  "spin_hover": {
+    "roi": [
+      300,
+      520,
+      1450,
+      900
+    ],
+    "threshold": 0.86
+  },
+  "bar_yolo": {
+    "roi": [
+      850,
+      891,
+      1450,
+      925
+    ],
+    "threshold": 0.84
+  },
+  "bar_dos": {
+    "roi": [
+      950,
+      891,
+      1450,
+      925
+    ],
+    "threshold": 0.84
+  },
+  "bar_phone": {
+    "roi": [
+      1150,
+      891,
+      1510,
+      925
+    ],
+    "threshold": 0.8
+  },
+  "slot_corner": {
+    "roi": [
+      350,
+      80,
+      1500,
+      300
+    ],
+    "threshold": 0.8
+  },
+  "slot_lower_corner": {
+    "roi": [
+      350,
+      500,
+      1500,
+      850
+    ],
+    "threshold": 0.8
+  },
+  "spawn_door": {
+    "roi": [
+      610,
+      245,
+      1080,
+      590
+    ],
+    "threshold": 0.85
+  },
+  "overwrite_title": {
+    "roi": [
+      610,
+      365,
+      1040,
+      460
+    ],
+    "threshold": 0.7
+  },
+  "overwrite_text": {
+    "roi": [
+      465,
+      405,
+      1185,
+      482
+    ],
+    "threshold": 0.67
+  },
+  "overwrite_yes": {
+    "roi": [
+      685,
+      475,
+      825,
+      559
+    ],
+    "threshold": 0.62
+  },
+  "overwrite_no": {
+    "roi": [
+      805,
+      475,
+      962,
+      559
+    ],
+    "threshold": 0.62
+  },
+  "overwrite_sure": {
+    "roi": [
+      695,
+      442,
+      955,
+      500
+    ],
+    "threshold": 0.69
+  },
+  "dark_respawn": {
+    "roi": [
+      345,
+      80,
+      785,
+      415
+    ],
+    "threshold": 0.87
+  },
+  "continue_save": {
+    "roi": [
+      0,
+      265,
+      550,
+      430
+    ],
+    "threshold": 0.85
+  },
+  "enter_desk": {
+    "roi": [
+      20,
+      825,
+      300,
+      927
+    ],
+    "threshold": 0.83
+  },
+  "sit_desk": {
+    "roi": [
+      20,
+      825,
+      300,
+      927
+    ],
+    "threshold": 0.83
+  }
+}
